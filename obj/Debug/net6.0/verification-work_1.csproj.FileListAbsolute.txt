@@ -1,0 +1,15 @@
+/Users/sherliwolf/Desktop/verification-work_1/bin/Debug/net6.0/verification-work_1
+/Users/sherliwolf/Desktop/verification-work_1/bin/Debug/net6.0/verification-work_1.deps.json
+/Users/sherliwolf/Desktop/verification-work_1/bin/Debug/net6.0/verification-work_1.runtimeconfig.json
+/Users/sherliwolf/Desktop/verification-work_1/bin/Debug/net6.0/verification-work_1.dll
+/Users/sherliwolf/Desktop/verification-work_1/bin/Debug/net6.0/verification-work_1.pdb
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.csproj.AssemblyReference.cache
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.AssemblyInfoInputs.cache
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.AssemblyInfo.cs
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.csproj.CoreCompileInputs.cache
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.dll
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/refint/verification-work_1.dll
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.pdb
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/verification-work_1.genruntimeconfig.cache
+/Users/sherliwolf/Desktop/verification-work_1/obj/Debug/net6.0/ref/verification-work_1.dll
